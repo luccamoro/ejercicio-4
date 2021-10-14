@@ -4,3 +4,6 @@ private String nombre;
     private String color;
     private String tipo;
     private final String raza="pato";
+    
+    Fernando = Conejo
+    
