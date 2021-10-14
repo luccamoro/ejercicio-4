@@ -12,6 +12,7 @@ package ejercicio.pkg4.git_hub;
 public class Pato {
     private String nombre;
     private String color;
-    private String tipo;
-    private final String raza="pato";
+    private final String tipo = "pato";
+    private String raza;
+    private double peso;
 }
